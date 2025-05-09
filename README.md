@@ -1,2 +1,2 @@
 # custom-swiper-carousel
-A ver simple WordPress plugin for creating customizable image carousels with lightbox
+A very simple WordPress plugin for creating customizable image carousels with lightbox
